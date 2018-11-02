@@ -11,3 +11,4 @@ The system is mainly used to facilitate the management of employee information, 
 
 4.Ensure the safety and integrity of employee information, avoid information leakage and unnecessary loss of employees.
 
+5.Base on BS framework.
